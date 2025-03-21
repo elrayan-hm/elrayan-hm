@@ -3,7 +3,7 @@
 **My name is HAMHAMI MOHAMED EL RAYAN**
 
 - 🌱 I’m currently learning CyberSecurity & Advanced Web Development (ngnix, docker, micro-services) ...
-- 📫 How to reach me: elrayan.hamhami@gmail.com
+- 📫 Reach me: elrayan.hamhami@gmail.com
 - ⚡ Fun fact: I usually work at night!
 
 - 😄 Life hacks: `.py --> .exe --> python -m PyInstaller --onefile --noconsole name.py`
