@@ -1,6 +1,5 @@
-## Hi there 👋
+> Hi there 👋
 
-<--
 **elrayan-hm/elrayan-hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I usually work at night!
 
 - 😄 Life hacks: .py --> .exe -- python -m PyInstaller --onefile --noconsole name.py
--->
