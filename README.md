@@ -1,6 +1,6 @@
 > Hi there 👋
 
-**My name is HAMHAMI MOHAMED EL RAYAN**
+**My name is HAMHAMI EL RAYAN**
 
 - 🌱 I’m currently learning CyberSecurity & Advanced Web Development (ngnix, docker, micro-services) ...
 - 📫 Reach me: elrayan.hamhami@gmail.com
